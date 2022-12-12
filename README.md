@@ -1,5 +1,5 @@
 # Disclaimer
-Just a small disclaimer this is not paid this is not inspired by nopixel this is straight from the local QBCore Framework this is simply just a free redesign, from me  also this design is pacifically look like the multicharacter. there are small updates that will be added. thats from the qbcore framework to make it fully updated also there will be small tweaks that will be made by me
+Just a small disclaimer this is not paid this is not inspired by nopixel this is straight from the local QBCore Framework this is simply just a free redesign, from me  also this design is pacifically look like the multicharacter. there are small updates that will be added. thats from the qbcore framework to make it fully updated also there will be small tweaks that will be made by me there are still a few errors that will be fixed if noticed
 
 # qb-inventory
 # License
