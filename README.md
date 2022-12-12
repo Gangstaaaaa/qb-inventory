@@ -22,7 +22,6 @@ Just a small disclaimer this is not paid this is not inspired by nopixel this is
 
 ## Dependencies
 - [qb-core](https://github.com/qbcore-framework/qb-core)
-- [qb-logs](https://github.com/qbcore-framework/qb-logs) - For logging transfer and other history
 - [qb-traphouse](https://github.com/qbcore-framework/qb-traphouse) - Trap house system for qbcore
 - [qb-radio](https://github.com/qbcore-framework/qb-radio) - Radio system for communication
 - [qb-drugs](https://github.com/qbcore-framework/qb-drugs) -  Drugs and Weed Planting System
