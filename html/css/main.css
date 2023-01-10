@@ -438,13 +438,15 @@ body {
 
 #other-inv-weight {
 	color: white;
-    font-size: 12px;
-    font-weight: 900;
-    font-family: 'Poppins', sans-serif;
-    letter-spacing: 0.2vh;
-    float: left;
-    position: relative;
-    bottom: -4px;
+	font-size: 12px;
+	font-weight: 900;
+	font-family: 'Poppins', sans-serif;
+	letter-spacing: 0.2vh;
+	font-size: medium;
+	float: left;
+	left: -10px;
+	position: relative;
+	bottom: -4px;
 }
 
 .player-inv-weight {
